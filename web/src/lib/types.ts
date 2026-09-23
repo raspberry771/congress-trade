@@ -47,7 +47,6 @@ export type MemberStats = {
   buyCount: number;
   sellCount: number;
   uniqueIssuers: number;
-  medianLag: number | null;
   lastTraded: string | null;
   lastPublished: string | null;
   sizeBands: Record<string, number>;

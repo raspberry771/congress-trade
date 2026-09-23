@@ -47,13 +47,6 @@ function computeClientStats(trades: Trade[], stockOnly: boolean): MemberStats {
     monthMap.set(month, cur);
   }
 
-  const lags = [...filtered.map((t) => t.filedAfterDays)].sort((a, b) => a - b);
-  const medianLag = lags.length
-    ? lags.length % 2
-      ? lags[Math.floor(lags.length / 2)]
-      : Math.round((lags[lags.length / 2 - 1] + lags[lags.length / 2]) / 2)
-    : null;
-
   const tradedDates = filtered.map((t) => t.traded).filter(Boolean).sort();
   const publishedDates = filtered.map((t) => t.published).filter(Boolean).sort();
 
@@ -62,7 +55,6 @@ function computeClientStats(trades: Trade[], stockOnly: boolean): MemberStats {
     buyCount: buys.length,
     sellCount: sells.length,
     uniqueIssuers: issuers.size,
-    medianLag,
     lastTraded: tradedDates.at(-1) || null,
     lastPublished: publishedDates.at(-1) || null,
     sizeBands,

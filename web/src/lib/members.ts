@@ -33,13 +33,6 @@ export function getMemberTrades(slug: string): Trade[] {
     .sort((a, b) => (a.published < b.published ? 1 : -1));
 }
 
-function median(nums: number[]): number | null {
-  if (!nums.length) return null;
-  const s = [...nums].sort((a, b) => a - b);
-  const mid = Math.floor(s.length / 2);
-  return s.length % 2 ? s[mid] : Math.round((s[mid - 1] + s[mid]) / 2);
-}
-
 export function computeMemberStats(
   trades: Trade[],
   opts?: { stockOnly?: boolean },
@@ -103,7 +96,6 @@ export function computeMemberStats(
     buyCount: buys.length,
     sellCount: sells.length,
     uniqueIssuers: issuers.size,
-    medianLag: median(filtered.map((t) => t.filedAfterDays)),
     lastTraded: tradedDates.length ? tradedDates[tradedDates.length - 1] : null,
     lastPublished: publishedDates.length
       ? publishedDates[publishedDates.length - 1]

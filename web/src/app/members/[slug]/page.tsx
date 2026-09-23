@@ -132,10 +132,6 @@ export default async function MemberPage({
             <span>Unique issuers</span>
           </div>
           <div className="stat">
-            <b>{stats.medianLag ?? "—"}{stats.medianLag != null ? "d" : ""}</b>
-            <span>Median lag</span>
-          </div>
-          <div className="stat">
             <b>{formatDate(stats.lastTraded)}</b>
             <span>Last traded</span>
           </div>
