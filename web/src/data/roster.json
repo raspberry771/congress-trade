@@ -1,0 +1,1514 @@
+[
+  {
+    "name": "Adam Smith",
+    "slug": "adam-smith",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "WA",
+    "district": "9",
+    "districtLabel": "WA-9",
+    "matchConfidence": "verified",
+    "bioguideHint": "Smith, Adam",
+    "officialUrl": "https://smith.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Adam+Smith&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Armed Services"
+    ],
+    "sectorHints": [
+      "defense"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Andrew Garbarino",
+    "slug": "andrew-garbarino",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "NY",
+    "district": "2",
+    "districtLabel": "NY-2",
+    "matchConfidence": "verified",
+    "bioguideHint": "Garbarino, Andrew R.",
+    "officialUrl": "https://garbarino.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Andrew+Garbarino&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Financial Services"
+    ],
+    "sectorHints": [
+      "banks"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Angus King",
+    "slug": "angus-king",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "MP",
+    "district": null,
+    "districtLabel": "MP",
+    "matchConfidence": "verified",
+    "bioguideHint": "King-Hinds, Kimberlyn",
+    "officialUrl": "https://king-hinds.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Angus+King&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [],
+    "sectorHints": [],
+    "status": "sitting"
+  },
+  {
+    "name": "April McClain Delaney",
+    "slug": "april-mcclain-delaney",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "MD",
+    "district": "6",
+    "districtLabel": "MD-6",
+    "matchConfidence": "verified",
+    "bioguideHint": "McClain Delaney, April",
+    "officialUrl": "https://mcclaindelaney.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=April+McClain+Delaney&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Agriculture"
+    ],
+    "sectorHints": [
+      "ag"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "August Pfluger",
+    "slug": "august-pfluger",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "TX",
+    "district": "11",
+    "districtLabel": "TX-11",
+    "matchConfidence": "verified",
+    "bioguideHint": "Pfluger, August",
+    "officialUrl": "https://pfluger.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=August+Pfluger&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Homeland Security"
+    ],
+    "sectorHints": [
+      "defense"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Austin Scott",
+    "slug": "austin-scott",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "GA",
+    "district": "8",
+    "districtLabel": "GA-8",
+    "matchConfidence": "verified",
+    "bioguideHint": "Scott, Austin",
+    "officialUrl": "https://scott.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Austin+Scott&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Agriculture"
+    ],
+    "sectorHints": [
+      "ag"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Bill Hagerty",
+    "slug": "bill-hagerty",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "senate",
+    "state": "TN",
+    "district": null,
+    "districtLabel": "TN",
+    "matchConfidence": "verified",
+    "bioguideHint": "Hagerty, Bill",
+    "officialUrl": "https://www.hagerty.senate.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Bill+Hagerty&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [],
+    "sectorHints": [],
+    "status": "sitting"
+  },
+  {
+    "name": "Bill Keating",
+    "slug": "bill-keating",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "MA",
+    "district": "9",
+    "districtLabel": "MA-9",
+    "matchConfidence": "verified",
+    "bioguideHint": "Keating, William R.",
+    "officialUrl": "https://keating.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Bill+Keating&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Armed Services"
+    ],
+    "sectorHints": [
+      "defense"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Brandon Gill",
+    "slug": "brandon-gill",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "TX",
+    "district": "26",
+    "districtLabel": "TX-26",
+    "matchConfidence": "verified",
+    "bioguideHint": "Gill, Brandon",
+    "officialUrl": "https://gill.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Brandon+Gill&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Budget"
+    ],
+    "sectorHints": [
+      "budget"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Byron Donalds",
+    "slug": "byron-donalds",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "FL",
+    "district": "19",
+    "districtLabel": "FL-19",
+    "matchConfidence": "verified",
+    "bioguideHint": "Donalds, Byron",
+    "officialUrl": "https://donalds.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Byron+Donalds&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Financial Services"
+    ],
+    "sectorHints": [
+      "banks"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Chuck Fleischmann",
+    "slug": "chuck-fleischmann",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "TN",
+    "district": "3",
+    "districtLabel": "TN-3",
+    "matchConfidence": "verified",
+    "bioguideHint": "Fleischmann, Charles J. \"Chuck\"",
+    "officialUrl": "https://fleischmann.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Chuck+Fleischmann&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Appropriations"
+    ],
+    "sectorHints": [
+      "budget"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Cleo Fields",
+    "slug": "cleo-fields",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "LA",
+    "district": "6",
+    "districtLabel": "LA-6",
+    "matchConfidence": "verified",
+    "bioguideHint": "Fields, Cleo",
+    "officialUrl": "https://fields.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Cleo+Fields&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Financial Services"
+    ],
+    "sectorHints": [
+      "banks"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Dan Meuser",
+    "slug": "dan-meuser",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "PA",
+    "district": "9",
+    "districtLabel": "PA-9",
+    "matchConfidence": "verified",
+    "bioguideHint": "Meuser, Daniel",
+    "officialUrl": "https://meuser.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Dan+Meuser&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Financial Services"
+    ],
+    "sectorHints": [
+      "banks"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Dan Newhouse",
+    "slug": "dan-newhouse",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "WA",
+    "district": "4",
+    "districtLabel": "WA-4",
+    "matchConfidence": "verified",
+    "bioguideHint": "Newhouse, Dan",
+    "officialUrl": "https://newhouse.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Dan+Newhouse&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Agriculture"
+    ],
+    "sectorHints": [
+      "ag"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Dave McCormick",
+    "slug": "dave-mccormick",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "senate",
+    "state": "PA",
+    "district": null,
+    "districtLabel": "PA",
+    "matchConfidence": "verified",
+    "bioguideHint": "McCormick, David",
+    "officialUrl": "https://www.mccormick.senate.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Dave+McCormick&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [],
+    "sectorHints": [],
+    "status": "sitting"
+  },
+  {
+    "name": "David Taylor",
+    "slug": "david-taylor",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "OH",
+    "district": "2",
+    "districtLabel": "OH-2",
+    "matchConfidence": "verified",
+    "bioguideHint": "Taylor, David J.",
+    "officialUrl": "https://taylor.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=David+Taylor&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Agriculture"
+    ],
+    "sectorHints": [
+      "ag"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Debbie Wasserman Schultz",
+    "slug": "debbie-wasserman-schultz",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "FL",
+    "district": "25",
+    "districtLabel": "FL-25",
+    "matchConfidence": "verified",
+    "bioguideHint": "Wasserman Schultz, Debbie",
+    "officialUrl": "https://wassermanschultz.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Debbie+Wasserman+Schultz&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Appropriations"
+    ],
+    "sectorHints": [
+      "budget"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Don Beyer",
+    "slug": "don-beyer",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "VA",
+    "district": "8",
+    "districtLabel": "VA-8",
+    "matchConfidence": "verified",
+    "bioguideHint": "Beyer, Donald S.",
+    "officialUrl": "https://beyer.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Don+Beyer&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Ways and Means"
+    ],
+    "sectorHints": [
+      "tax"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Donald Norcross",
+    "slug": "donald-norcross",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "NJ",
+    "district": "1",
+    "districtLabel": "NJ-1",
+    "matchConfidence": "verified",
+    "bioguideHint": "Norcross, Donald",
+    "officialUrl": "https://norcross.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Donald+Norcross&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Armed Services"
+    ],
+    "sectorHints": [
+      "defense"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "George Whitesides",
+    "slug": "george-whitesides",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "CA",
+    "district": "27",
+    "districtLabel": "CA-27",
+    "matchConfidence": "verified",
+    "bioguideHint": "Whitesides, George",
+    "officialUrl": "https://whitesides.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=George+Whitesides&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Armed Services"
+    ],
+    "sectorHints": [
+      "defense"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Gil Cisneros",
+    "slug": "gil-cisneros",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "CA",
+    "district": "31",
+    "districtLabel": "CA-31",
+    "matchConfidence": "verified",
+    "bioguideHint": "Cisneros, Gilbert Ray",
+    "officialUrl": "https://cisneros.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Gil+Cisneros&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Armed Services"
+    ],
+    "sectorHints": [
+      "defense"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Hal Rogers",
+    "slug": "hal-rogers",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "KY",
+    "district": "5",
+    "districtLabel": "KY-5",
+    "matchConfidence": "verified",
+    "bioguideHint": "Rogers, Harold",
+    "officialUrl": "https://rogers.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Hal+Rogers&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Appropriations"
+    ],
+    "sectorHints": [
+      "budget"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Jake Auchincloss",
+    "slug": "jake-auchincloss",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "MA",
+    "district": "4",
+    "districtLabel": "MA-4",
+    "matchConfidence": "verified",
+    "bioguideHint": "Auchincloss, Jake",
+    "officialUrl": "https://auchincloss.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Jake+Auchincloss&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "sectorHints": [
+      "energy"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "James Comer",
+    "slug": "james-comer",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "KY",
+    "district": "1",
+    "districtLabel": "KY-1",
+    "matchConfidence": "verified",
+    "bioguideHint": "Comer, James",
+    "officialUrl": "https://comer.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=James+Comer&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Education and Workforce"
+    ],
+    "sectorHints": [
+      "labor"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Jim Banks",
+    "slug": "jim-banks",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "senate",
+    "state": "IN",
+    "district": null,
+    "districtLabel": "IN",
+    "matchConfidence": "verified",
+    "bioguideHint": "Banks, Jim",
+    "officialUrl": "https://www.banks.senate.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Jim+Banks&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [],
+    "sectorHints": [],
+    "status": "sitting"
+  },
+  {
+    "name": "John Boozman",
+    "slug": "john-boozman",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "senate",
+    "state": "AR",
+    "district": null,
+    "districtLabel": "AR",
+    "matchConfidence": "verified",
+    "bioguideHint": "Boozman, John",
+    "officialUrl": "https://www.boozman.senate.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=John+Boozman&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [],
+    "sectorHints": [],
+    "status": "sitting"
+  },
+  {
+    "name": "John Curtis",
+    "slug": "john-curtis",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "senate",
+    "state": "UT",
+    "district": null,
+    "districtLabel": "UT",
+    "matchConfidence": "verified",
+    "bioguideHint": "Curtis, John R.",
+    "officialUrl": "https://www.curtis.senate.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=John+Curtis&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [],
+    "sectorHints": [],
+    "status": "sitting"
+  },
+  {
+    "name": "John Fetterman",
+    "slug": "john-fetterman",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "senate",
+    "state": "PA",
+    "district": null,
+    "districtLabel": "PA",
+    "matchConfidence": "verified",
+    "bioguideHint": "Fetterman, John",
+    "officialUrl": "https://www.fetterman.senate.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=John+Fetterman&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [],
+    "sectorHints": [],
+    "status": "sitting"
+  },
+  {
+    "name": "John Hickenlooper",
+    "slug": "john-hickenlooper",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "senate",
+    "state": "CO",
+    "district": null,
+    "districtLabel": "CO",
+    "matchConfidence": "verified",
+    "bioguideHint": "Hickenlooper, John W.",
+    "officialUrl": "https://www.hickenlooper.senate.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=John+Hickenlooper&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [],
+    "sectorHints": [],
+    "status": "sitting"
+  },
+  {
+    "name": "Jonathan Jackson",
+    "slug": "jonathan-jackson",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "IL",
+    "district": "1",
+    "districtLabel": "IL-1",
+    "matchConfidence": "verified",
+    "bioguideHint": "Jackson, Jonathan L.",
+    "officialUrl": "https://jackson.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Jonathan+Jackson&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Agriculture"
+    ],
+    "sectorHints": [
+      "ag"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Josh Gottheimer",
+    "slug": "josh-gottheimer",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "NJ",
+    "district": "5",
+    "districtLabel": "NJ-5",
+    "matchConfidence": "verified",
+    "bioguideHint": "Gottheimer, Josh",
+    "officialUrl": "https://gottheimer.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Josh+Gottheimer&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Financial Services"
+    ],
+    "sectorHints": [
+      "banks"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Judy Chu",
+    "slug": "judy-chu",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "CA",
+    "district": "28",
+    "districtLabel": "CA-28",
+    "matchConfidence": "verified",
+    "bioguideHint": "Chu, Judy",
+    "officialUrl": "https://chu.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Judy+Chu&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Budget"
+    ],
+    "sectorHints": [
+      "budget"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Julie Johnson",
+    "slug": "julie-johnson",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "TX",
+    "district": "32",
+    "districtLabel": "TX-32",
+    "matchConfidence": "verified",
+    "bioguideHint": "Johnson, Julie",
+    "officialUrl": "https://johnson.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Julie+Johnson&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Foreign Affairs"
+    ],
+    "sectorHints": [
+      "defense"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Katherine Clark",
+    "slug": "katherine-clark",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "MA",
+    "district": "5",
+    "districtLabel": "MA-5",
+    "matchConfidence": "verified",
+    "bioguideHint": "Clark, Katherine M.",
+    "officialUrl": "https://clark.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Katherine+Clark&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [],
+    "sectorHints": [],
+    "status": "sitting"
+  },
+  {
+    "name": "Kelly Morrison",
+    "slug": "kelly-morrison",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "MN",
+    "district": "3",
+    "districtLabel": "MN-3",
+    "matchConfidence": "verified",
+    "bioguideHint": "Morrison, Kelly",
+    "officialUrl": "https://morrison.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Kelly+Morrison&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Small Business"
+    ],
+    "sectorHints": [
+      "business"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Laura Friedman",
+    "slug": "laura-friedman",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "CA",
+    "district": "30",
+    "districtLabel": "CA-30",
+    "matchConfidence": "verified",
+    "bioguideHint": "Friedman, Laura",
+    "officialUrl": "https://friedman.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Laura+Friedman&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Transportation and Infrastructure"
+    ],
+    "sectorHints": [
+      "industrial"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Laurel Lee",
+    "slug": "laurel-lee",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "FL",
+    "district": "15",
+    "districtLabel": "FL-15",
+    "matchConfidence": "verified",
+    "bioguideHint": "Lee, Laurel M.",
+    "officialUrl": "https://lee.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Laurel+Lee&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "House Administration"
+    ],
+    "sectorHints": [],
+    "status": "sitting"
+  },
+  {
+    "name": "Lindsey Graham",
+    "slug": "lindsey-graham",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "senate",
+    "state": "SC",
+    "district": null,
+    "districtLabel": "SC",
+    "matchConfidence": "verified",
+    "bioguideHint": "Graham, Lindsey",
+    "officialUrl": "https://www.lgraham.senate.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Lindsey+Graham&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Judiciary",
+      "Appropriations",
+      "Budget"
+    ],
+    "sectorHints": [
+      "legal",
+      "budget"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Lisa McClain",
+    "slug": "lisa-mcclain",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "MI",
+    "district": "9",
+    "districtLabel": "MI-9",
+    "matchConfidence": "verified",
+    "bioguideHint": "McClain, Lisa C.",
+    "officialUrl": "https://mcclain.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Lisa+McClain&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Financial Services"
+    ],
+    "sectorHints": [
+      "banks"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Lloyd Doggett",
+    "slug": "lloyd-doggett",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "TX",
+    "district": "37",
+    "districtLabel": "TX-37",
+    "matchConfidence": "verified",
+    "bioguideHint": "Doggett, Lloyd",
+    "officialUrl": "https://doggett.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Lloyd+Doggett&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Budget"
+    ],
+    "sectorHints": [
+      "budget"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Marjorie Taylor Greene",
+    "slug": "marjorie-taylor-greene",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "GA",
+    "district": "14",
+    "districtLabel": "GA-14",
+    "matchConfidence": "verified",
+    "bioguideHint": "Greene, Marjorie Taylor",
+    "officialUrl": "https://greene.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Marjorie+Taylor+Greene&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Oversight and Government Reform",
+      "Homeland Security"
+    ],
+    "sectorHints": [
+      "gov",
+      "defense"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Markwayne Mullin",
+    "slug": "markwayne-mullin",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "senate",
+    "state": "OK",
+    "district": null,
+    "districtLabel": "OK",
+    "matchConfidence": "verified",
+    "bioguideHint": "Mullin, Markwayne",
+    "officialUrl": "https://www.mullin.senate.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Markwayne+Mullin&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Environment and Public Works",
+      "Health, Education, Labor, and Pensions",
+      "Indian Affairs"
+    ],
+    "sectorHints": [
+      "energy",
+      "health"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Max Miller",
+    "slug": "max-miller",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "OH",
+    "district": "7",
+    "districtLabel": "OH-7",
+    "matchConfidence": "verified",
+    "bioguideHint": "Miller, Max L.",
+    "officialUrl": "https://miller.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Max+Miller&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Foreign Affairs"
+    ],
+    "sectorHints": [
+      "defense"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Michael McCaul",
+    "slug": "michael-mccaul",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "TX",
+    "district": "10",
+    "districtLabel": "TX-10",
+    "matchConfidence": "verified",
+    "bioguideHint": "McCaul, Michael T.",
+    "officialUrl": "https://mccaul.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Michael+McCaul&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Foreign Affairs"
+    ],
+    "sectorHints": [
+      "defense"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Mike Collins",
+    "slug": "mike-collins",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "GA",
+    "district": "10",
+    "districtLabel": "GA-10",
+    "matchConfidence": "verified",
+    "bioguideHint": "Collins, Mike",
+    "officialUrl": "https://collins.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Mike+Collins&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Natural Resources"
+    ],
+    "sectorHints": [
+      "energy"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Mike Kelly",
+    "slug": "mike-kelly",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "PA",
+    "district": "16",
+    "districtLabel": "PA-16",
+    "matchConfidence": "verified",
+    "bioguideHint": "Kelly, Mike",
+    "officialUrl": "https://kelly.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Mike+Kelly&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Ways and Means"
+    ],
+    "sectorHints": [
+      "tax"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Neal Dunn",
+    "slug": "neal-dunn",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "FL",
+    "district": "2",
+    "districtLabel": "FL-2",
+    "matchConfidence": "verified",
+    "bioguideHint": "Dunn, Neal P.",
+    "officialUrl": "https://dunn.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Neal+Dunn&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "sectorHints": [
+      "energy"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Paul Mitchell",
+    "slug": "paul-mitchell",
+    "matchConfidence": "unverified",
+    "bioguideHint": "Paul Mitchell",
+    "officialUrl": "https://www.congress.gov/",
+    "congressGovUrl": "https://www.congress.gov/search?q=Paul+Mitchell",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "MI",
+    "district": null,
+    "districtLabel": "MI (former)",
+    "committees": [],
+    "sectorHints": [],
+    "status": "former"
+  },
+  {
+    "name": "Pete Sessions",
+    "slug": "pete-sessions",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "TX",
+    "district": "17",
+    "districtLabel": "TX-17",
+    "matchConfidence": "verified",
+    "bioguideHint": "Sessions, Pete",
+    "officialUrl": "https://sessions.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Pete+Sessions&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Financial Services"
+    ],
+    "sectorHints": [
+      "banks"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Rich McCormick",
+    "slug": "rich-mccormick",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "GA",
+    "district": "7",
+    "districtLabel": "GA-7",
+    "matchConfidence": "verified",
+    "bioguideHint": "McCormick, Richard",
+    "officialUrl": "https://mccormick.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Rich+McCormick&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Armed Services"
+    ],
+    "sectorHints": [
+      "defense"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Richard Blumenthal",
+    "slug": "richard-blumenthal",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "senate",
+    "state": "CT",
+    "district": null,
+    "districtLabel": "CT",
+    "matchConfidence": "verified",
+    "bioguideHint": "Blumenthal, Richard",
+    "officialUrl": "https://www.blumenthal.senate.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Richard+Blumenthal&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Judiciary",
+      "Armed Services",
+      "Veterans' Affairs"
+    ],
+    "sectorHints": [
+      "legal",
+      "defense",
+      "health"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Rick Allen",
+    "slug": "rick-allen",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "GA",
+    "district": "12",
+    "districtLabel": "GA-12",
+    "matchConfidence": "verified",
+    "bioguideHint": "Allen, Rick W.",
+    "officialUrl": "https://allen.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Rick+Allen&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Education and Workforce"
+    ],
+    "sectorHints": [
+      "labor"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Rick Scott",
+    "slug": "rick-scott",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "senate",
+    "state": "FL",
+    "district": null,
+    "districtLabel": "FL",
+    "matchConfidence": "verified",
+    "bioguideHint": "Scott, Rick",
+    "officialUrl": "https://www.scott.senate.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Rick+Scott&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [],
+    "sectorHints": [],
+    "status": "sitting"
+  },
+  {
+    "name": "Ritchie Torres",
+    "slug": "ritchie-torres",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "NY",
+    "district": "15",
+    "districtLabel": "NY-15",
+    "matchConfidence": "verified",
+    "bioguideHint": "Torres, Ritchie",
+    "officialUrl": "https://torres.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Ritchie+Torres&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Financial Services"
+    ],
+    "sectorHints": [
+      "banks"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Ro Khanna",
+    "slug": "ro-khanna",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "CA",
+    "district": "17",
+    "districtLabel": "CA-17",
+    "matchConfidence": "verified",
+    "bioguideHint": "Khanna, Ro",
+    "officialUrl": "https://khanna.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Ro+Khanna&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Armed Services"
+    ],
+    "sectorHints": [
+      "defense"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Rob Bresnahan",
+    "slug": "rob-bresnahan",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "PA",
+    "district": "8",
+    "districtLabel": "PA-8",
+    "matchConfidence": "verified",
+    "bioguideHint": "Bresnahan, Robert P.",
+    "officialUrl": "https://bresnahan.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Rob+Bresnahan&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Agriculture"
+    ],
+    "sectorHints": [
+      "ag"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Robert Aderholt",
+    "slug": "robert-aderholt",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "AL",
+    "district": "4",
+    "districtLabel": "AL-4",
+    "matchConfidence": "verified",
+    "bioguideHint": "Aderholt, Robert B.",
+    "officialUrl": "https://aderholt.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Robert+Aderholt&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Appropriations"
+    ],
+    "sectorHints": [
+      "budget"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Rudy Yakym",
+    "slug": "rudy-yakym",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "IN",
+    "district": "2",
+    "districtLabel": "IN-2",
+    "matchConfidence": "verified",
+    "bioguideHint": "Yakym, Rudy",
+    "officialUrl": "https://yakym.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Rudy+Yakym&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Ways and Means"
+    ],
+    "sectorHints": [
+      "tax"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Scott Franklin",
+    "slug": "scott-franklin",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "FL",
+    "district": "18",
+    "districtLabel": "FL-18",
+    "matchConfidence": "verified",
+    "bioguideHint": "Franklin, Scott",
+    "officialUrl": "https://franklin.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Scott+Franklin&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Appropriations"
+    ],
+    "sectorHints": [
+      "budget"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Scott Peters",
+    "slug": "scott-peters",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "CA",
+    "district": "50",
+    "districtLabel": "CA-50",
+    "matchConfidence": "verified",
+    "bioguideHint": "Peters, Scott H.",
+    "officialUrl": "https://peters.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Scott+Peters&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Budget"
+    ],
+    "sectorHints": [
+      "budget"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Seth Moulton",
+    "slug": "seth-moulton",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "MA",
+    "district": "6",
+    "districtLabel": "MA-6",
+    "matchConfidence": "verified",
+    "bioguideHint": "Moulton, Seth",
+    "officialUrl": "https://moulton.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Seth+Moulton&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Armed Services"
+    ],
+    "sectorHints": [
+      "defense"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Sheldon Whitehouse",
+    "slug": "sheldon-whitehouse",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "senate",
+    "state": "RI",
+    "district": null,
+    "districtLabel": "RI",
+    "matchConfidence": "verified",
+    "bioguideHint": "Whitehouse, Sheldon",
+    "officialUrl": "https://www.whitehouse.senate.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Sheldon+Whitehouse&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [],
+    "sectorHints": [],
+    "status": "sitting"
+  },
+  {
+    "name": "Shelley Moore Capito",
+    "slug": "shelley-moore-capito",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "senate",
+    "state": "WV",
+    "district": null,
+    "districtLabel": "WV",
+    "matchConfidence": "verified",
+    "bioguideHint": "Capito, Shelley Moore",
+    "officialUrl": "https://www.capito.senate.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Shelley+Moore+Capito&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [],
+    "sectorHints": [],
+    "status": "sitting"
+  },
+  {
+    "name": "Sheri Biggs",
+    "slug": "sheri-biggs",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "SC",
+    "district": "3",
+    "districtLabel": "SC-3",
+    "matchConfidence": "verified",
+    "bioguideHint": "Biggs, Sheri",
+    "officialUrl": "https://biggs.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Sheri+Biggs&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Foreign Affairs"
+    ],
+    "sectorHints": [
+      "defense"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Shri Thanedar",
+    "slug": "shri-thanedar",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "MI",
+    "district": "13",
+    "districtLabel": "MI-13",
+    "matchConfidence": "verified",
+    "bioguideHint": "Thanedar, Shri",
+    "officialUrl": "https://thanedar.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Shri+Thanedar&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Agriculture"
+    ],
+    "sectorHints": [
+      "ag"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Steve Cohen",
+    "slug": "steve-cohen",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "TN",
+    "district": "9",
+    "districtLabel": "TN-9",
+    "matchConfidence": "verified",
+    "bioguideHint": "Cohen, Steve",
+    "officialUrl": "https://cohen.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Steve+Cohen&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Intelligence"
+    ],
+    "sectorHints": [
+      "defense"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Susie Lee",
+    "slug": "susie-lee",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "NV",
+    "district": "3",
+    "districtLabel": "NV-3",
+    "matchConfidence": "verified",
+    "bioguideHint": "Lee, Susie",
+    "officialUrl": "https://lee.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Susie+Lee&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Appropriations"
+    ],
+    "sectorHints": [
+      "budget"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Suzan DelBene",
+    "slug": "suzan-delbene",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "WA",
+    "district": "1",
+    "districtLabel": "WA-1",
+    "matchConfidence": "verified",
+    "bioguideHint": "DelBene, Suzan K.",
+    "officialUrl": "https://delbene.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Suzan+DelBene&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Ways and Means"
+    ],
+    "sectorHints": [
+      "tax"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Thomas Kean Jr",
+    "slug": "thomas-kean-jr",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "NJ",
+    "district": "7",
+    "districtLabel": "NJ-7",
+    "matchConfidence": "verified",
+    "bioguideHint": "Kean, Thomas H.",
+    "officialUrl": "https://kean.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Thomas+Kean+Jr&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Foreign Affairs"
+    ],
+    "sectorHints": [
+      "defense"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Tim Moore",
+    "slug": "tim-moore",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "NC",
+    "district": "14",
+    "districtLabel": "NC-14",
+    "matchConfidence": "verified",
+    "bioguideHint": "Moore, Tim",
+    "officialUrl": "https://moore.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Tim+Moore&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Financial Services"
+    ],
+    "sectorHints": [
+      "banks"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Tom Suozzi",
+    "slug": "tom-suozzi",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "NY",
+    "district": "3",
+    "districtLabel": "NY-3",
+    "matchConfidence": "verified",
+    "bioguideHint": "Suozzi, Thomas R.",
+    "officialUrl": "https://suozzi.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Tom+Suozzi&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Ways and Means"
+    ],
+    "sectorHints": [
+      "tax"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Tony Wied",
+    "slug": "tony-wied",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "WI",
+    "district": "8",
+    "districtLabel": "WI-8",
+    "matchConfidence": "verified",
+    "bioguideHint": "Wied, Tony",
+    "officialUrl": "https://wied.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Tony+Wied&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Agriculture"
+    ],
+    "sectorHints": [
+      "ag"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Val Hoyle",
+    "slug": "val-hoyle",
+    "party": "D",
+    "partyLabel": "Democratic",
+    "chamber": "house",
+    "state": "OR",
+    "district": "4",
+    "districtLabel": "OR-4",
+    "matchConfidence": "verified",
+    "bioguideHint": "Hoyle, Val T.",
+    "officialUrl": "https://hoyle.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Val+Hoyle&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Natural Resources"
+    ],
+    "sectorHints": [
+      "energy"
+    ],
+    "status": "sitting"
+  },
+  {
+    "name": "Virginia Foxx",
+    "slug": "virginia-foxx",
+    "party": "R",
+    "partyLabel": "Republican",
+    "chamber": "house",
+    "state": "NC",
+    "district": "5",
+    "districtLabel": "NC-5",
+    "matchConfidence": "verified",
+    "bioguideHint": "Foxx, Virginia",
+    "officialUrl": "https://foxx.house.gov",
+    "congressGovUrl": "https://www.congress.gov/search?q=Virginia+Foxx&searchResultViewType=expanded&pageSize=25&q=%7B%22source%22%3A%22members%22%7D",
+    "committees": [
+      "Education and Workforce"
+    ],
+    "sectorHints": [
+      "labor"
+    ],
+    "status": "sitting"
+  }
+]

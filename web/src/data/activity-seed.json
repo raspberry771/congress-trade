@@ -1,0 +1,2229 @@
+{
+  "adam-smith": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2000 \u2014 Regional Economic Resilience Act",
+      "date": "2025-08-01",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "industrial",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "adam-smith",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-08-10",
+      "outlet": "Armed Services",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "adam-smith",
+      "scaffold": true
+    }
+  ],
+  "andrew-garbarino": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2003 \u2014 Energy Permitting Clarity Act",
+      "date": "2025-08-06",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "energy",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "andrew-garbarino",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-08-15",
+      "outlet": "Financial Services",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "andrew-garbarino",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Press release on federal funding announcement",
+      "date": "2025-08-24",
+      "outlet": "Official press",
+      "url": "https://garbarino.house.gov",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "andrew-garbarino",
+      "scaffold": true
+    }
+  ],
+  "angus-king": [
+    {
+      "type": "Bill",
+      "title": "S. 2006 \u2014 Defense Supply Chain Assurance Act",
+      "date": "2025-08-11",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "defense",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "angus-king",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Markup session on authorizing legislation",
+      "date": "2025-08-20",
+      "outlet": "Congressional committee",
+      "url": "https://www.congress.gov/committees",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "angus-king",
+      "scaffold": true
+    }
+  ],
+  "april-mcclain-delaney": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2009 \u2014 Community Health Access Act",
+      "date": "2025-08-16",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "health",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "april-mcclain-delaney",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-08-25",
+      "outlet": "Agriculture",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "april-mcclain-delaney",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Member statement on district economic priorities",
+      "date": "2025-09-03",
+      "outlet": "Official press",
+      "url": "https://mcclaindelaney.house.gov",
+      "sector": "business",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "april-mcclain-delaney",
+      "scaffold": true
+    }
+  ],
+  "august-pfluger": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2012 \u2014 Digital Markets Transparency Act",
+      "date": "2025-08-21",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "tech",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "august-pfluger",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-08-30",
+      "outlet": "Homeland Security",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "august-pfluger",
+      "scaffold": true
+    }
+  ],
+  "austin-scott": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2015 \u2014 Regional Economic Resilience Act",
+      "date": "2025-08-26",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "industrial",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "austin-scott",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Markup session on authorizing legislation",
+      "date": "2025-09-04",
+      "outlet": "Agriculture",
+      "url": "https://www.congress.gov/committees",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "austin-scott",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Official note on constituent services expansion",
+      "date": "2025-09-13",
+      "outlet": "Official press",
+      "url": "https://scott.house.gov",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "austin-scott",
+      "scaffold": true
+    }
+  ],
+  "bill-hagerty": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2018 \u2014 Energy Permitting Clarity Act",
+      "date": "2025-08-31",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "energy",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "bill-hagerty",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-09-09",
+      "outlet": "Congressional committee",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "bill-hagerty",
+      "scaffold": true
+    }
+  ],
+  "bill-keating": [
+    {
+      "type": "Bill",
+      "title": "S. 2021 \u2014 Defense Supply Chain Assurance Act",
+      "date": "2025-09-05",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "defense",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "bill-keating",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-09-14",
+      "outlet": "Armed Services",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "bill-keating",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Press release on federal funding announcement",
+      "date": "2025-09-23",
+      "outlet": "Official press",
+      "url": "https://keating.house.gov",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "bill-keating",
+      "scaffold": true
+    }
+  ],
+  "brandon-gill": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2024 \u2014 Community Health Access Act",
+      "date": "2025-09-10",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "health",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "brandon-gill",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Markup session on authorizing legislation",
+      "date": "2025-09-19",
+      "outlet": "Budget",
+      "url": "https://www.congress.gov/committees",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "brandon-gill",
+      "scaffold": true
+    }
+  ],
+  "byron-donalds": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2027 \u2014 Digital Markets Transparency Act",
+      "date": "2025-09-15",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "tech",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "byron-donalds",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-09-24",
+      "outlet": "Financial Services",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "byron-donalds",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Member statement on district economic priorities",
+      "date": "2025-10-03",
+      "outlet": "Official press",
+      "url": "https://donalds.house.gov",
+      "sector": "business",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "byron-donalds",
+      "scaffold": true
+    }
+  ],
+  "chuck-fleischmann": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2030 \u2014 Regional Economic Resilience Act",
+      "date": "2025-09-20",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "industrial",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "chuck-fleischmann",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-09-29",
+      "outlet": "Appropriations",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "chuck-fleischmann",
+      "scaffold": true
+    }
+  ],
+  "cleo-fields": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2033 \u2014 Energy Permitting Clarity Act",
+      "date": "2025-09-25",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "energy",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "cleo-fields",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Markup session on authorizing legislation",
+      "date": "2025-10-04",
+      "outlet": "Financial Services",
+      "url": "https://www.congress.gov/committees",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "cleo-fields",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Official note on constituent services expansion",
+      "date": "2025-08-04",
+      "outlet": "Official press",
+      "url": "https://fields.house.gov",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "cleo-fields",
+      "scaffold": true
+    }
+  ],
+  "dan-meuser": [
+    {
+      "type": "Bill",
+      "title": "S. 2036 \u2014 Defense Supply Chain Assurance Act",
+      "date": "2025-09-30",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "defense",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "dan-meuser",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-10-09",
+      "outlet": "Financial Services",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "dan-meuser",
+      "scaffold": true
+    }
+  ],
+  "dan-newhouse": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2039 \u2014 Community Health Access Act",
+      "date": "2025-10-05",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "health",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "dan-newhouse",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-08-05",
+      "outlet": "Agriculture",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "dan-newhouse",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Press release on federal funding announcement",
+      "date": "2025-08-14",
+      "outlet": "Official press",
+      "url": "https://newhouse.house.gov",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "dan-newhouse",
+      "scaffold": true
+    }
+  ],
+  "dave-mccormick": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2042 \u2014 Digital Markets Transparency Act",
+      "date": "2025-08-01",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "tech",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "dave-mccormick",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Markup session on authorizing legislation",
+      "date": "2025-08-10",
+      "outlet": "Congressional committee",
+      "url": "https://www.congress.gov/committees",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "dave-mccormick",
+      "scaffold": true
+    }
+  ],
+  "david-taylor": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2045 \u2014 Regional Economic Resilience Act",
+      "date": "2025-08-06",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "industrial",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "david-taylor",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-08-15",
+      "outlet": "Agriculture",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "david-taylor",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Member statement on district economic priorities",
+      "date": "2025-08-24",
+      "outlet": "Official press",
+      "url": "https://taylor.house.gov",
+      "sector": "business",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "david-taylor",
+      "scaffold": true
+    }
+  ],
+  "debbie-wasserman-schultz": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2048 \u2014 Energy Permitting Clarity Act",
+      "date": "2025-08-11",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "energy",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "debbie-wasserman-schultz",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-08-20",
+      "outlet": "Appropriations",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "debbie-wasserman-schultz",
+      "scaffold": true
+    }
+  ],
+  "don-beyer": [
+    {
+      "type": "Bill",
+      "title": "S. 2051 \u2014 Defense Supply Chain Assurance Act",
+      "date": "2025-08-16",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "defense",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "don-beyer",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Markup session on authorizing legislation",
+      "date": "2025-08-25",
+      "outlet": "Ways and Means",
+      "url": "https://www.congress.gov/committees",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "don-beyer",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Official note on constituent services expansion",
+      "date": "2025-09-03",
+      "outlet": "Official press",
+      "url": "https://beyer.house.gov",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "don-beyer",
+      "scaffold": true
+    }
+  ],
+  "donald-norcross": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2054 \u2014 Community Health Access Act",
+      "date": "2025-08-21",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "health",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "donald-norcross",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-08-30",
+      "outlet": "Armed Services",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "donald-norcross",
+      "scaffold": true
+    }
+  ],
+  "george-whitesides": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2057 \u2014 Digital Markets Transparency Act",
+      "date": "2025-08-26",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "tech",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "george-whitesides",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-09-04",
+      "outlet": "Armed Services",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "george-whitesides",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Press release on federal funding announcement",
+      "date": "2025-09-13",
+      "outlet": "Official press",
+      "url": "https://whitesides.house.gov",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "george-whitesides",
+      "scaffold": true
+    }
+  ],
+  "gil-cisneros": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2060 \u2014 Regional Economic Resilience Act",
+      "date": "2025-08-31",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "industrial",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "gil-cisneros",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Markup session on authorizing legislation",
+      "date": "2025-09-09",
+      "outlet": "Armed Services",
+      "url": "https://www.congress.gov/committees",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "gil-cisneros",
+      "scaffold": true
+    }
+  ],
+  "hal-rogers": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2063 \u2014 Energy Permitting Clarity Act",
+      "date": "2025-09-05",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "energy",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "hal-rogers",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-09-14",
+      "outlet": "Appropriations",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "hal-rogers",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Member statement on district economic priorities",
+      "date": "2025-09-23",
+      "outlet": "Official press",
+      "url": "https://rogers.house.gov",
+      "sector": "business",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "hal-rogers",
+      "scaffold": true
+    }
+  ],
+  "jake-auchincloss": [
+    {
+      "type": "Bill",
+      "title": "S. 2066 \u2014 Defense Supply Chain Assurance Act",
+      "date": "2025-09-10",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "defense",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "jake-auchincloss",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-09-19",
+      "outlet": "Energy and Commerce",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "jake-auchincloss",
+      "scaffold": true
+    }
+  ],
+  "james-comer": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2069 \u2014 Community Health Access Act",
+      "date": "2025-09-15",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "health",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "james-comer",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Markup session on authorizing legislation",
+      "date": "2025-09-24",
+      "outlet": "Education and Workforce",
+      "url": "https://www.congress.gov/committees",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "james-comer",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Official note on constituent services expansion",
+      "date": "2025-10-03",
+      "outlet": "Official press",
+      "url": "https://comer.house.gov",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "james-comer",
+      "scaffold": true
+    }
+  ],
+  "jim-banks": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2072 \u2014 Digital Markets Transparency Act",
+      "date": "2025-09-20",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "tech",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "jim-banks",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-09-29",
+      "outlet": "Congressional committee",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "jim-banks",
+      "scaffold": true
+    }
+  ],
+  "john-boozman": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2075 \u2014 Regional Economic Resilience Act",
+      "date": "2025-09-25",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "industrial",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "john-boozman",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-10-04",
+      "outlet": "Congressional committee",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "john-boozman",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Press release on federal funding announcement",
+      "date": "2025-08-04",
+      "outlet": "Official press",
+      "url": "https://www.boozman.senate.gov",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "john-boozman",
+      "scaffold": true
+    }
+  ],
+  "john-curtis": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2078 \u2014 Energy Permitting Clarity Act",
+      "date": "2025-09-30",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "energy",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "john-curtis",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Markup session on authorizing legislation",
+      "date": "2025-10-09",
+      "outlet": "Congressional committee",
+      "url": "https://www.congress.gov/committees",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "john-curtis",
+      "scaffold": true
+    }
+  ],
+  "john-fetterman": [
+    {
+      "type": "Bill",
+      "title": "S. 2081 \u2014 Defense Supply Chain Assurance Act",
+      "date": "2025-10-05",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "defense",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "john-fetterman",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-08-05",
+      "outlet": "Congressional committee",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "john-fetterman",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Member statement on district economic priorities",
+      "date": "2025-08-14",
+      "outlet": "Official press",
+      "url": "https://www.fetterman.senate.gov",
+      "sector": "business",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "john-fetterman",
+      "scaffold": true
+    }
+  ],
+  "john-hickenlooper": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2084 \u2014 Community Health Access Act",
+      "date": "2025-08-01",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "health",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "john-hickenlooper",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-08-10",
+      "outlet": "Congressional committee",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "john-hickenlooper",
+      "scaffold": true
+    }
+  ],
+  "jonathan-jackson": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2087 \u2014 Digital Markets Transparency Act",
+      "date": "2025-08-06",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "tech",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "jonathan-jackson",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Markup session on authorizing legislation",
+      "date": "2025-08-15",
+      "outlet": "Agriculture",
+      "url": "https://www.congress.gov/committees",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "jonathan-jackson",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Official note on constituent services expansion",
+      "date": "2025-08-24",
+      "outlet": "Official press",
+      "url": "https://jackson.house.gov",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "jonathan-jackson",
+      "scaffold": true
+    }
+  ],
+  "josh-gottheimer": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2090 \u2014 Regional Economic Resilience Act",
+      "date": "2025-08-11",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "industrial",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "josh-gottheimer",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-08-20",
+      "outlet": "Financial Services",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "josh-gottheimer",
+      "scaffold": true
+    }
+  ],
+  "judy-chu": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2093 \u2014 Energy Permitting Clarity Act",
+      "date": "2025-08-16",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "energy",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "judy-chu",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-08-25",
+      "outlet": "Budget",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "judy-chu",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Press release on federal funding announcement",
+      "date": "2025-09-03",
+      "outlet": "Official press",
+      "url": "https://chu.house.gov",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "judy-chu",
+      "scaffold": true
+    }
+  ],
+  "julie-johnson": [
+    {
+      "type": "Bill",
+      "title": "S. 2096 \u2014 Defense Supply Chain Assurance Act",
+      "date": "2025-08-21",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "defense",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "julie-johnson",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Markup session on authorizing legislation",
+      "date": "2025-08-30",
+      "outlet": "Foreign Affairs",
+      "url": "https://www.congress.gov/committees",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "julie-johnson",
+      "scaffold": true
+    }
+  ],
+  "katherine-clark": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2099 \u2014 Community Health Access Act",
+      "date": "2025-08-26",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "health",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "katherine-clark",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-09-04",
+      "outlet": "Congressional committee",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "katherine-clark",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Member statement on district economic priorities",
+      "date": "2025-09-13",
+      "outlet": "Official press",
+      "url": "https://clark.house.gov",
+      "sector": "business",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "katherine-clark",
+      "scaffold": true
+    }
+  ],
+  "kelly-morrison": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2102 \u2014 Digital Markets Transparency Act",
+      "date": "2025-08-31",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "tech",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "kelly-morrison",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-09-09",
+      "outlet": "Small Business",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "kelly-morrison",
+      "scaffold": true
+    }
+  ],
+  "laura-friedman": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2105 \u2014 Regional Economic Resilience Act",
+      "date": "2025-09-05",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "industrial",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "laura-friedman",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Markup session on authorizing legislation",
+      "date": "2025-09-14",
+      "outlet": "Transportation and Infrastructure",
+      "url": "https://www.congress.gov/committees",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "laura-friedman",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Official note on constituent services expansion",
+      "date": "2025-09-23",
+      "outlet": "Official press",
+      "url": "https://friedman.house.gov",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "laura-friedman",
+      "scaffold": true
+    }
+  ],
+  "laurel-lee": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2108 \u2014 Energy Permitting Clarity Act",
+      "date": "2025-09-10",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "energy",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "laurel-lee",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-09-19",
+      "outlet": "House Administration",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "laurel-lee",
+      "scaffold": true
+    }
+  ],
+  "lindsey-graham": [
+    {
+      "type": "Bill",
+      "title": "S. 2111 \u2014 Defense Supply Chain Assurance Act",
+      "date": "2025-09-15",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "defense",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "lindsey-graham",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-09-24",
+      "outlet": "Judiciary",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "lindsey-graham",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Press release on federal funding announcement",
+      "date": "2025-10-03",
+      "outlet": "Official press",
+      "url": "https://www.lgraham.senate.gov",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "lindsey-graham",
+      "scaffold": true
+    }
+  ],
+  "lisa-mcclain": [
+    {
+      "type": "Bill",
+      "title": "H.R. 4120 \u2014 Community Bank Capital Relief Act",
+      "date": "2025-09-18",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/4120",
+      "sector": "banks",
+      "body": "Would adjust capital treatment for community banks. Relevant to Financial Services jurisdiction.",
+      "memberSlug": "lisa-mcclain",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Financial Services hearing on market structure",
+      "date": "2025-09-10",
+      "outlet": "House Financial Services",
+      "url": "https://financialservices.house.gov/",
+      "sector": "banks",
+      "body": "Committee reviewed equity market structure and disclosure practices.",
+      "memberSlug": "lisa-mcclain",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "McClain statement on Michigan manufacturing jobs",
+      "date": "2025-08-28",
+      "outlet": "Official press",
+      "url": "https://mcclain.house.gov/",
+      "sector": "industrial",
+      "body": "Member highlighted supply-chain and manufacturing priorities in-district.",
+      "memberSlug": "lisa-mcclain",
+      "scaffold": true
+    }
+  ],
+  "lloyd-doggett": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2117 \u2014 Digital Markets Transparency Act",
+      "date": "2025-09-25",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "tech",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "lloyd-doggett",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-10-04",
+      "outlet": "Budget",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "lloyd-doggett",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Member statement on district economic priorities",
+      "date": "2025-08-04",
+      "outlet": "Official press",
+      "url": "https://doggett.house.gov",
+      "sector": "business",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "lloyd-doggett",
+      "scaffold": true
+    }
+  ],
+  "marjorie-taylor-greene": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2120 \u2014 Regional Economic Resilience Act",
+      "date": "2025-09-30",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "industrial",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "marjorie-taylor-greene",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-10-09",
+      "outlet": "Oversight and Government Reform",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "marjorie-taylor-greene",
+      "scaffold": true
+    }
+  ],
+  "markwayne-mullin": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2123 \u2014 Energy Permitting Clarity Act",
+      "date": "2025-10-05",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "energy",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "markwayne-mullin",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Markup session on authorizing legislation",
+      "date": "2025-08-05",
+      "outlet": "Environment and Public Works",
+      "url": "https://www.congress.gov/committees",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "markwayne-mullin",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Official note on constituent services expansion",
+      "date": "2025-08-14",
+      "outlet": "Official press",
+      "url": "https://www.mullin.senate.gov",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "markwayne-mullin",
+      "scaffold": true
+    }
+  ],
+  "max-miller": [
+    {
+      "type": "Bill",
+      "title": "S. 2126 \u2014 Defense Supply Chain Assurance Act",
+      "date": "2025-08-01",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "defense",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "max-miller",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-08-10",
+      "outlet": "Foreign Affairs",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "max-miller",
+      "scaffold": true
+    }
+  ],
+  "michael-mccaul": [
+    {
+      "type": "Bill",
+      "title": "H.R. 3312 \u2014 Foreign Adversary Investment Screening Act",
+      "date": "2025-09-12",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/3312",
+      "sector": "defense",
+      "body": "Expands review of inbound investment from designated adversaries.",
+      "memberSlug": "michael-mccaul",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Foreign Affairs markup on Indo-Pacific security",
+      "date": "2025-08-27",
+      "outlet": "House Foreign Affairs",
+      "url": "https://foreignaffairs.house.gov/",
+      "sector": "defense",
+      "body": "Markup advanced several Indo-Pacific security measures.",
+      "memberSlug": "michael-mccaul",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "McCaul on energy security and allies",
+      "date": "2025-08-14",
+      "outlet": "Official press",
+      "url": "https://mccaul.house.gov/",
+      "sector": "energy",
+      "body": "Statement linking energy exports to alliance strategy.",
+      "memberSlug": "michael-mccaul",
+      "scaffold": true
+    }
+  ],
+  "mike-collins": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2132 \u2014 Digital Markets Transparency Act",
+      "date": "2025-08-11",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "tech",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "mike-collins",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Markup session on authorizing legislation",
+      "date": "2025-08-20",
+      "outlet": "Natural Resources",
+      "url": "https://www.congress.gov/committees",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "mike-collins",
+      "scaffold": true
+    }
+  ],
+  "mike-kelly": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2135 \u2014 Regional Economic Resilience Act",
+      "date": "2025-08-16",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "industrial",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "mike-kelly",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-08-25",
+      "outlet": "Ways and Means",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "mike-kelly",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Member statement on district economic priorities",
+      "date": "2025-09-03",
+      "outlet": "Official press",
+      "url": "https://kelly.house.gov",
+      "sector": "business",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "mike-kelly",
+      "scaffold": true
+    }
+  ],
+  "neal-dunn": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2138 \u2014 Energy Permitting Clarity Act",
+      "date": "2025-08-21",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "energy",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "neal-dunn",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-08-30",
+      "outlet": "Energy and Commerce",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "neal-dunn",
+      "scaffold": true
+    }
+  ],
+  "paul-mitchell": [
+    {
+      "type": "Bill",
+      "title": "S. 2141 \u2014 Defense Supply Chain Assurance Act",
+      "date": "2025-08-26",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "defense",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "paul-mitchell",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Markup session on authorizing legislation",
+      "date": "2025-09-04",
+      "outlet": "Congressional committee",
+      "url": "https://www.congress.gov/committees",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "paul-mitchell",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Official note on constituent services expansion",
+      "date": "2025-09-13",
+      "outlet": "Official press",
+      "url": "https://www.congress.gov/",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "paul-mitchell",
+      "scaffold": true
+    }
+  ],
+  "pete-sessions": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2144 \u2014 Community Health Access Act",
+      "date": "2025-08-31",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "health",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "pete-sessions",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-09-09",
+      "outlet": "Financial Services",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "pete-sessions",
+      "scaffold": true
+    }
+  ],
+  "rich-mccormick": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2147 \u2014 Digital Markets Transparency Act",
+      "date": "2025-09-05",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "tech",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "rich-mccormick",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-09-14",
+      "outlet": "Armed Services",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "rich-mccormick",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Press release on federal funding announcement",
+      "date": "2025-09-23",
+      "outlet": "Official press",
+      "url": "https://mccormick.house.gov",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "rich-mccormick",
+      "scaffold": true
+    }
+  ],
+  "richard-blumenthal": [
+    {
+      "type": "Bill",
+      "title": "S. 2104 \u2014 Online Kids Safety Act",
+      "date": "2025-09-15",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2104",
+      "sector": "tech",
+      "body": "Platform design duties for products used by minors.",
+      "memberSlug": "richard-blumenthal",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Judiciary hearing on AI accountability",
+      "date": "2025-09-03",
+      "outlet": "Senate Judiciary",
+      "url": "https://www.judiciary.senate.gov/",
+      "sector": "tech",
+      "body": "Witnesses discussed liability frameworks for generative AI.",
+      "memberSlug": "richard-blumenthal",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Blumenthal on veterans toxic exposure benefits",
+      "date": "2025-08-11",
+      "outlet": "Official press",
+      "url": "https://www.blumenthal.senate.gov/",
+      "sector": "health",
+      "body": "Update on outreach for toxic exposure claims.",
+      "memberSlug": "richard-blumenthal",
+      "scaffold": true
+    }
+  ],
+  "rick-allen": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2153 \u2014 Energy Permitting Clarity Act",
+      "date": "2025-09-15",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "energy",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "rick-allen",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-09-24",
+      "outlet": "Education and Workforce",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "rick-allen",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Member statement on district economic priorities",
+      "date": "2025-10-03",
+      "outlet": "Official press",
+      "url": "https://allen.house.gov",
+      "sector": "business",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "rick-allen",
+      "scaffold": true
+    }
+  ],
+  "rick-scott": [
+    {
+      "type": "Bill",
+      "title": "S. 2156 \u2014 Defense Supply Chain Assurance Act",
+      "date": "2025-09-20",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "defense",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "rick-scott",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-09-29",
+      "outlet": "Congressional committee",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "rick-scott",
+      "scaffold": true
+    }
+  ],
+  "ritchie-torres": [
+    {
+      "type": "Bill",
+      "title": "H.R. 3720 \u2014 Public Housing Capital Repair Act",
+      "date": "2025-09-20",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/3720",
+      "sector": "banks",
+      "body": "Authorizes capital funding streams for public housing repairs.",
+      "memberSlug": "ritchie-torres",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Financial Services housing subcommittee",
+      "date": "2025-08-26",
+      "outlet": "House Financial Services",
+      "url": "https://financialservices.house.gov/",
+      "sector": "banks",
+      "body": "Oversight hearing on mortgage servicing and housing supply.",
+      "memberSlug": "ritchie-torres",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Torres on Bronx infrastructure investments",
+      "date": "2025-09-02",
+      "outlet": "Official press",
+      "url": "https://ritchietorres.house.gov/",
+      "sector": "industrial",
+      "body": "Local press release on transit and housing projects.",
+      "memberSlug": "ritchie-torres",
+      "scaffold": true
+    }
+  ],
+  "ro-khanna": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2891 \u2014 Domestic Chip Workforce Act",
+      "date": "2025-09-22",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/2891",
+      "sector": "tech",
+      "body": "Workforce and incentives tied to domestic semiconductor capacity.",
+      "memberSlug": "ro-khanna",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Armed Services subcommittee on emerging tech",
+      "date": "2025-09-05",
+      "outlet": "House Armed Services",
+      "url": "https://armedservices.house.gov/",
+      "sector": "defense",
+      "body": "Hearing on AI and dual-use technology supply chains.",
+      "memberSlug": "ro-khanna",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Khanna on antitrust and big tech competition",
+      "date": "2025-08-19",
+      "outlet": "Official press",
+      "url": "https://khanna.house.gov/",
+      "sector": "tech",
+      "body": "Press release outlining competition priorities for platform markets.",
+      "memberSlug": "ro-khanna",
+      "scaffold": true
+    }
+  ],
+  "rob-bresnahan": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2165 \u2014 Regional Economic Resilience Act",
+      "date": "2025-10-05",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "industrial",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "rob-bresnahan",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-08-05",
+      "outlet": "Agriculture",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "rob-bresnahan",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Press release on federal funding announcement",
+      "date": "2025-08-14",
+      "outlet": "Official press",
+      "url": "https://bresnahan.house.gov",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "rob-bresnahan",
+      "scaffold": true
+    }
+  ],
+  "robert-aderholt": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2168 \u2014 Energy Permitting Clarity Act",
+      "date": "2025-08-01",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "energy",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "robert-aderholt",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Markup session on authorizing legislation",
+      "date": "2025-08-10",
+      "outlet": "Appropriations",
+      "url": "https://www.congress.gov/committees",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "robert-aderholt",
+      "scaffold": true
+    }
+  ],
+  "rudy-yakym": [
+    {
+      "type": "Bill",
+      "title": "S. 2171 \u2014 Defense Supply Chain Assurance Act",
+      "date": "2025-08-06",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "defense",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "rudy-yakym",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-08-15",
+      "outlet": "Ways and Means",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "rudy-yakym",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Member statement on district economic priorities",
+      "date": "2025-08-24",
+      "outlet": "Official press",
+      "url": "https://yakym.house.gov",
+      "sector": "business",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "rudy-yakym",
+      "scaffold": true
+    }
+  ],
+  "scott-franklin": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2174 \u2014 Community Health Access Act",
+      "date": "2025-08-11",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "health",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "scott-franklin",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-08-20",
+      "outlet": "Appropriations",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "scott-franklin",
+      "scaffold": true
+    }
+  ],
+  "scott-peters": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2177 \u2014 Digital Markets Transparency Act",
+      "date": "2025-08-16",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "tech",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "scott-peters",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Markup session on authorizing legislation",
+      "date": "2025-08-25",
+      "outlet": "Budget",
+      "url": "https://www.congress.gov/committees",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "scott-peters",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Official note on constituent services expansion",
+      "date": "2025-09-03",
+      "outlet": "Official press",
+      "url": "https://peters.house.gov",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "scott-peters",
+      "scaffold": true
+    }
+  ],
+  "seth-moulton": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2180 \u2014 Regional Economic Resilience Act",
+      "date": "2025-08-21",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "industrial",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "seth-moulton",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-08-30",
+      "outlet": "Armed Services",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "seth-moulton",
+      "scaffold": true
+    }
+  ],
+  "sheldon-whitehouse": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2183 \u2014 Energy Permitting Clarity Act",
+      "date": "2025-08-26",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "energy",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "sheldon-whitehouse",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-09-04",
+      "outlet": "Congressional committee",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "sheldon-whitehouse",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Press release on federal funding announcement",
+      "date": "2025-09-13",
+      "outlet": "Official press",
+      "url": "https://www.whitehouse.senate.gov",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "sheldon-whitehouse",
+      "scaffold": true
+    }
+  ],
+  "shelley-moore-capito": [
+    {
+      "type": "Bill",
+      "title": "S. 2186 \u2014 Defense Supply Chain Assurance Act",
+      "date": "2025-08-31",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "defense",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "shelley-moore-capito",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Markup session on authorizing legislation",
+      "date": "2025-09-09",
+      "outlet": "Congressional committee",
+      "url": "https://www.congress.gov/committees",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "shelley-moore-capito",
+      "scaffold": true
+    }
+  ],
+  "sheri-biggs": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2189 \u2014 Community Health Access Act",
+      "date": "2025-09-05",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "health",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "sheri-biggs",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-09-14",
+      "outlet": "Foreign Affairs",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "sheri-biggs",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Member statement on district economic priorities",
+      "date": "2025-09-23",
+      "outlet": "Official press",
+      "url": "https://biggs.house.gov",
+      "sector": "business",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "sheri-biggs",
+      "scaffold": true
+    }
+  ],
+  "shri-thanedar": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2192 \u2014 Digital Markets Transparency Act",
+      "date": "2025-09-10",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "tech",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "shri-thanedar",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-09-19",
+      "outlet": "Agriculture",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "shri-thanedar",
+      "scaffold": true
+    }
+  ],
+  "steve-cohen": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2195 \u2014 Regional Economic Resilience Act",
+      "date": "2025-09-15",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "industrial",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "steve-cohen",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Markup session on authorizing legislation",
+      "date": "2025-09-24",
+      "outlet": "Intelligence",
+      "url": "https://www.congress.gov/committees",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "steve-cohen",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Official note on constituent services expansion",
+      "date": "2025-10-03",
+      "outlet": "Official press",
+      "url": "https://cohen.house.gov",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "steve-cohen",
+      "scaffold": true
+    }
+  ],
+  "susie-lee": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2198 \u2014 Energy Permitting Clarity Act",
+      "date": "2025-09-20",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "energy",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "susie-lee",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-09-29",
+      "outlet": "Appropriations",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "susie-lee",
+      "scaffold": true
+    }
+  ],
+  "suzan-delbene": [
+    {
+      "type": "Bill",
+      "title": "S. 2201 \u2014 Defense Supply Chain Assurance Act",
+      "date": "2025-09-25",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "defense",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "suzan-delbene",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-10-04",
+      "outlet": "Ways and Means",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "suzan-delbene",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Press release on federal funding announcement",
+      "date": "2025-08-04",
+      "outlet": "Official press",
+      "url": "https://delbene.house.gov",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "suzan-delbene",
+      "scaffold": true
+    }
+  ],
+  "thomas-kean-jr": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2204 \u2014 Community Health Access Act",
+      "date": "2025-09-30",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "health",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "thomas-kean-jr",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Markup session on authorizing legislation",
+      "date": "2025-10-09",
+      "outlet": "Foreign Affairs",
+      "url": "https://www.congress.gov/committees",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "thomas-kean-jr",
+      "scaffold": true
+    }
+  ],
+  "tim-moore": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2207 \u2014 Digital Markets Transparency Act",
+      "date": "2025-10-05",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "tech",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "tim-moore",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Committee briefing on sector oversight priorities",
+      "date": "2025-08-05",
+      "outlet": "Financial Services",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "tim-moore",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Member statement on district economic priorities",
+      "date": "2025-08-14",
+      "outlet": "Official press",
+      "url": "https://moore.house.gov",
+      "sector": "business",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "tim-moore",
+      "scaffold": true
+    }
+  ],
+  "tom-suozzi": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2210 \u2014 Regional Economic Resilience Act",
+      "date": "2025-08-01",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "industrial",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "tom-suozzi",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-08-10",
+      "outlet": "Ways and Means",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "tom-suozzi",
+      "scaffold": true
+    }
+  ],
+  "tony-wied": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2213 \u2014 Energy Permitting Clarity Act",
+      "date": "2025-08-06",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "energy",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "tony-wied",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Markup session on authorizing legislation",
+      "date": "2025-08-15",
+      "outlet": "Agriculture",
+      "url": "https://www.congress.gov/committees",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "tony-wied",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Official note on constituent services expansion",
+      "date": "2025-08-24",
+      "outlet": "Official press",
+      "url": "https://wied.house.gov",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "tony-wied",
+      "scaffold": true
+    }
+  ],
+  "val-hoyle": [
+    {
+      "type": "Bill",
+      "title": "H.R. 4501 \u2014 Pacific Northwest Timber Jobs Act",
+      "date": "2025-09-08",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/4501",
+      "sector": "ag",
+      "body": "Forestry and rural jobs measure with Natural Resources overlap.",
+      "memberSlug": "val-hoyle",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Transportation hearing on West Coast ports",
+      "date": "2025-08-21",
+      "outlet": "House T&I",
+      "url": "https://transportation.house.gov/",
+      "sector": "industrial",
+      "body": "Examined port congestion and freight corridor funding.",
+      "memberSlug": "val-hoyle",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Hoyle announces wildfire recovery funding push",
+      "date": "2025-09-01",
+      "outlet": "Official press",
+      "url": "https://hoyle.house.gov/",
+      "sector": "energy",
+      "body": "Press note on federal recovery resources for Oregon communities.",
+      "memberSlug": "val-hoyle",
+      "scaffold": true
+    }
+  ],
+  "virginia-foxx": [
+    {
+      "type": "Bill",
+      "title": "H.R. 2219 \u2014 Community Health Access Act",
+      "date": "2025-08-16",
+      "outlet": "Congress.gov",
+      "url": "https://www.congress.gov/",
+      "sector": "health",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "virginia-foxx",
+      "scaffold": true
+    },
+    {
+      "type": "Committee",
+      "title": "Hearing on regulatory implementation timeline",
+      "date": "2025-08-25",
+      "outlet": "Education and Workforce",
+      "url": "https://www.congress.gov/committees",
+      "sector": "gov",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "virginia-foxx",
+      "scaffold": true
+    },
+    {
+      "type": "Press",
+      "title": "Press release on federal funding announcement",
+      "date": "2025-09-03",
+      "outlet": "Official press",
+      "url": "https://foxx.house.gov",
+      "sector": "budget",
+      "body": "Scaffold context item for the news pillar \u2014 replace with live congress.gov / press ingest.",
+      "memberSlug": "virginia-foxx",
+      "scaffold": true
+    }
+  ]
+}
