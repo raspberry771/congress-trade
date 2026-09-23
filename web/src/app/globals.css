@@ -528,8 +528,15 @@ table.trades tr:hover td {
   .charts {
     grid-template-columns: 1fr;
   }
-  .navLinks {
-    display: none;
+  .navLinks a {
+    padding: 0.35rem 0.55rem;
+    font-size: 0.88rem;
+  }
+  .hero {
+    padding-top: 2.25rem;
+  }
+  .identityTop {
+    flex-direction: column;
   }
 }
 
